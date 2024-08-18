@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 name: send_msg_on_time # 这是你的插件的唯一识别名。
 desc: 实现定时在指定q群发送消息 # 插件简短描述
-=======
-name: qqAD # 这是你的插件的唯一识别名。
-desc: 实现q群打广 # 插件简短描述
->>>>>>> c8af5c672d57289bd60eaed23256c219e15305f5
 help: 输入 /keyword 查看关键词回复帮助。 # 插件的帮助信息
 version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: undefined # 作者
-repo: https://github.com/creeper-scr/astrbot_plugin_qqAD_public # 插件的仓库地址
+repo: https://github.com/creeper-scr/astrbot_plugin_send_msg_ontime_public # 插件的仓库地址
